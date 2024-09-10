@@ -7,9 +7,9 @@
 - [Data Cleaning/Preparation](#data-cleaning/preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Results/Finding](#results/findings)
-- [Recommendation](recommendation)
-- [Limitations](limitations)
-  
+- [Recommendation](#recommendation)
+- [Limitations](#limitations)
+
 ## Project Overview
 This project analysis the data for a sales company called Evergreen PLC for a period of January 2023 - September 2023 showing the total sale, profit, customers across board and filtering per country, region, month, quarter. We seek to have a better understanding of the company performance for this period and identify trend in data over this period of time.
 
