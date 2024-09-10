@@ -4,7 +4,7 @@
 - [Project Overview](#project-overview)
 - [Data Source](#data-source)
 - [Tool](#tool)
-- [Data Cleaning & Preparation](#data-cleaning-&-preparation)
+- [Data Cleaning & Preparation](#data-cleaning-and-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Results/Finding](#results/findings)
 - [Recommendations](#recommendations)
@@ -19,7 +19,7 @@ The Primary dataset used for the analysis is the "evergreen-data.xlsx" containin
 ## Tool
 - Microsoft Excel [Download Here]("https://microsoft.com")
 
-## Data Cleaning & Preparation
+## Data Cleaning and Preparation
 In the initial data preparation phase, we performed the following tasks:
 1. Data loading and inspection
 2. Handling missing values
